@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/WhatsApp-Clone/static/css/main.a4854526.css",
+    "main.js": "/WhatsApp-Clone/static/js/main.dc02f14b.js",
+    "static/js/787.59fb554a.chunk.js": "/WhatsApp-Clone/static/js/787.59fb554a.chunk.js",
+    "static/media/WhatsApp.png": "/WhatsApp-Clone/static/media/WhatsApp.e1b6bdeaa7b808f50831.png",
+    "static/media/volleyball.jpg": "/WhatsApp-Clone/static/media/volleyball.94dbed4dca9ebb7b2b8e.jpg",
+    "static/media/logo.svg": "/WhatsApp-Clone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/WhatsApp-Clone/index.html",
+    "main.a4854526.css.map": "/WhatsApp-Clone/static/css/main.a4854526.css.map",
+    "main.dc02f14b.js.map": "/WhatsApp-Clone/static/js/main.dc02f14b.js.map",
+    "787.59fb554a.chunk.js.map": "/WhatsApp-Clone/static/js/787.59fb554a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4854526.css",
+    "static/js/main.dc02f14b.js"
+  ]
+}
